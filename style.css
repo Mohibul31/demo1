@@ -3,11 +3,15 @@
   margin: 0;
 }
 body{
+  padding: 5px ;
   background-color: gray;
 }
 #heading{
+  background: pink;
+  padding: 10px;
   text-align: center;
   color: palegreen;
+  margin: 0 0 10px 0;
 }
 .blog-img{
   width: 100%;
