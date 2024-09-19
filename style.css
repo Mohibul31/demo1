@@ -14,6 +14,9 @@ body{
   color: palegreen;
   margin: 0 0 10px 0;
 }
+#heading h1{
+  color: #fff;
+}
 .blog-img{
   width: 100%;
 }
