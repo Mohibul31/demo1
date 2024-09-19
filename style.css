@@ -3,10 +3,11 @@
   margin: 0;
 }
 body{
+  
   padding: 5px ;
   background-color: gray;
 }
-#heading{
+#heading{ 
   background: pink;
   padding: 10px;
   text-align: center;
